@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vmc36
-- 👀 I’m interested in web developement - CSS, HTML, Java Script, PHP. 
+- 👀 I’m interested in web developement - HTML,CSS, Java Script, PHP. 
 - 🌱 I’m currently learning CSS3, HTML5.
 
 <!---
