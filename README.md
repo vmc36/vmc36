@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @vmc36
-- 👀 I’m interested in front-end developement - HTML,CSS, JavaScript.
-- 🌱 I’m currently learning CSS3, HTML5.
+# Olá, eu sou o Vinicius! 👋
+ Front-end Developer 💻📱
 
-<!---
-vmc36/vmc36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
+## 🚀 Sobre mim
+🙍‍♂‍ Vinicius atua como desenvolvedor front-end há 1 ano e meio na Sia.Com Sistemas e informática. 
+
+🎓 Graduado em Sistemas de Informação pela Universidade Paranaense no ano de 2018.
+
+🧠 VueJs e React
+
+🏉 É fã de esportes americanos como NFL E NBA - Torcedor do New England Patriots e Cleveland Cavaliers. 
+
+✉️ Você pode entrar em contato por aqui : viniciusmodesto.dev@gmail.com
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-modesto96/)
+
+
