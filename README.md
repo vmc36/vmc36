@@ -13,6 +13,7 @@
 🏉 É fã de esportes americanos como NFL E NBA - Torcedor do New England Patriots e Cleveland Cavaliers. 
 
 ✉️ Você pode entrar em contato por aqui : viniciusmodesto.dev@gmail.com
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-modesto96/)
 
 
