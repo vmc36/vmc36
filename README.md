@@ -8,9 +8,7 @@
 
 🎓 Graduado em Sistemas de Informação pela Universidade Paranaense no ano de 2018.
 
-🏉 É fã de esportes americanos como NFL E NBA - Torcedor do New England Patriots e Cleveland Cavaliers. 
-
-✉️ Você pode entrar em contato por aqui : viniciusmodesto.dev@gmail.com
+✉️ Entre em contato por esse email : viniciusmodesto.dev@gmail.com
 
 
 ### Badges
