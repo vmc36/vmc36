@@ -4,7 +4,7 @@
 ![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 ## 🚀 Sobre mim
-🙍‍♂‍ Vinicius atua como desenvolvedor front-end há 1 ano e meio na Sia.Com Sistemas e informática. 
+🙍‍♂‍ Vinicius atuou como desenvolvedor front-end por 1 ano e meio na Sia.Com Sistemas e informática. 
 
 🎓 Graduado em Sistemas de Informação pela Universidade Paranaense no ano de 2018.
 
