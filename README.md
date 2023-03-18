@@ -1,10 +1,7 @@
 # Olá, eu sou o Vinicius! 👋
  Front-end Developer 💻📱
 
-
-
 ## 🚀 Sobre mim
-🙍‍♂‍ Atuei como desenvolvedor front-end por 1 ano e meio na Sia.Com Sistemas e informática. 
 
 🎓 Graduado em Sistemas de Informação pela Universidade Paranaense no ano de 2018.
 
