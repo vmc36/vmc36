@@ -1,13 +1,7 @@
 # Olá, eu sou o Vinicius! 👋
  Front-end Developer 💻📱
 
-## 🚀 Sobre mim
-
-🎓 Graduado em Sistemas de Informação pela Universidade Paranaense no ano de 2018.
-
-✉️ Entre em contato por esse email : viniciusmodesto.dev@gmail.com
-
-
+✉️ Email : viniciusmodesto.dev@gmail.com
 
 ### Skills
 
