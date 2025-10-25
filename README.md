@@ -4,7 +4,6 @@
 ✉️ Email : viniciusmodesto.dev@gmail.com
 
 ### Socials
-
-<a>href="https://www.linkedin.com/in/vinicius-modesto96/"/></a>
+https://www.linkedin.com/in/vinicius-modesto96
 
 
